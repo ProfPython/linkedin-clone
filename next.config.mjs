@@ -12,7 +12,7 @@ const nextConfig = {
           },
           {
             protocol: 'https',
-            hostname: 'linkedinclone.blob.windows.net',
+            hostname: 'profpythonlinkedinclone.blob.core.windows.net',
           },
       ],
     },
